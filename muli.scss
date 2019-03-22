@@ -1,0 +1,121 @@
+$ww-muli-font-path: "~@eaunitrust/googlefont-muli/fonts" !default;
+
+@font-face {
+	font-family: 'Muli';
+	src: url('#{$ww-muli-font-path}/Muli-BoldItalic.eot');
+	src: url('#{$ww-muli-font-path}/Muli-BoldItalic.eot?#iefix') format('embedded-opentype'),
+	url('#{$ww-muli-font-path}/Muli-BoldItalic.woff2') format('woff2'),
+	url('#{$ww-muli-font-path}/Muli-BoldItalic.woff') format('woff'),
+	url('#{$ww-muli-font-path}/Muli-BoldItalic.ttf') format('truetype'),
+	url('#{$ww-muli-font-path}/Muli-BoldItalic.svg#Muli-BoldItalic') format('svg');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Muli';
+	src: url('#{$ww-muli-font-path}/Muli-Italic.eot');
+	src: url('#{$ww-muli-font-path}/Muli-Italic.eot?#iefix') format('embedded-opentype'),
+	url('#{$ww-muli-font-path}/Muli-Italic.woff2') format('woff2'),
+	url('#{$ww-muli-font-path}/Muli-Italic.woff') format('woff'),
+	url('#{$ww-muli-font-path}/Muli-Italic.ttf') format('truetype'),
+	url('#{$ww-muli-font-path}/Muli-Italic.svg#Muli-Italic') format('svg');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Muli';
+	src: url('#{$ww-muli-font-path}/Muli-Light.eot');
+	src: url('#{$ww-muli-font-path}/Muli-Light.eot?#iefix') format('embedded-opentype'),
+	url('#{$ww-muli-font-path}/Muli-Light.woff2') format('woff2'),
+	url('#{$ww-muli-font-path}/Muli-Light.woff') format('woff'),
+	url('#{$ww-muli-font-path}/Muli-Light.ttf') format('truetype'),
+	url('#{$ww-muli-font-path}/Muli-Light.svg#Muli-Light') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Muli';
+	src: url('#{$ww-muli-font-path}/Muli-Bold.eot');
+	src: url('#{$ww-muli-font-path}/Muli-Bold.eot?#iefix') format('embedded-opentype'),
+	url('#{$ww-muli-font-path}/Muli-Bold.woff2') format('woff2'),
+	url('#{$ww-muli-font-path}/Muli-Bold.woff') format('woff'),
+	url('#{$ww-muli-font-path}/Muli-Bold.ttf') format('truetype'),
+	url('#{$ww-muli-font-path}/Muli-Bold.svg#Muli-Bold') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Muli';
+	src: url('#{$ww-muli-font-path}/Muli-ExtraLightItalic.eot');
+	src: url('#{$ww-muli-font-path}/Muli-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+	url('#{$ww-muli-font-path}/Muli-ExtraLightItalic.woff2') format('woff2'),
+	url('#{$ww-muli-font-path}/Muli-ExtraLightItalic.woff') format('woff'),
+	url('#{$ww-muli-font-path}/Muli-ExtraLightItalic.ttf') format('truetype'),
+	url('#{$ww-muli-font-path}/Muli-ExtraLightItalic.svg#Muli-ExtraLightItalic') format('svg');
+	font-weight: 200;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Muli';
+	src: url('#{$ww-muli-font-path}/Muli-ExtraLight.eot');
+	src: url('#{$ww-muli-font-path}/Muli-ExtraLight.eot?#iefix') format('embedded-opentype'),
+	url('#{$ww-muli-font-path}/Muli-ExtraLight.woff2') format('woff2'),
+	url('#{$ww-muli-font-path}/Muli-ExtraLight.woff') format('woff'),
+	url('#{$ww-muli-font-path}/Muli-ExtraLight.ttf') format('truetype'),
+	url('#{$ww-muli-font-path}/Muli-ExtraLight.svg#Muli-ExtraLight') format('svg');
+	font-weight: 200;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Muli';
+	src: url('#{$ww-muli-font-path}/Muli-SemiBold.eot');
+	src: url('#{$ww-muli-font-path}/Muli-SemiBold.eot?#iefix') format('embedded-opentype'),
+	url('#{$ww-muli-font-path}/Muli-SemiBold.woff2') format('woff2'),
+	url('#{$ww-muli-font-path}/Muli-SemiBold.woff') format('woff'),
+	url('#{$ww-muli-font-path}/Muli-SemiBold.ttf') format('truetype'),
+	url('#{$ww-muli-font-path}/Muli-SemiBold.svg#Muli-SemiBold') format('svg');
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Muli';
+	src: url('#{$ww-muli-font-path}/Muli-LightItalic.eot');
+	src: url('#{$ww-muli-font-path}/Muli-LightItalic.eot?#iefix') format('embedded-opentype'),
+	url('#{$ww-muli-font-path}/Muli-LightItalic.woff2') format('woff2'),
+	url('#{$ww-muli-font-path}/Muli-LightItalic.woff') format('woff'),
+	url('#{$ww-muli-font-path}/Muli-LightItalic.ttf') format('truetype'),
+	url('#{$ww-muli-font-path}/Muli-LightItalic.svg#Muli-LightItalic') format('svg');
+	font-weight: 300;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Muli';
+	src: url('#{$ww-muli-font-path}/Muli-Semi-BoldItalic.eot');
+	src: url('#{$ww-muli-font-path}/Muli-Semi-BoldItalic.eot?#iefix') format('embedded-opentype'),
+	url('#{$ww-muli-font-path}/Muli-Semi-BoldItalic.woff2') format('woff2'),
+	url('#{$ww-muli-font-path}/Muli-Semi-BoldItalic.woff') format('woff'),
+	url('#{$ww-muli-font-path}/Muli-Semi-BoldItalic.ttf') format('truetype'),
+	url('#{$ww-muli-font-path}/Muli-Semi-BoldItalic.svg#Muli-Semi-BoldItalic') format('svg');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Muli';
+	src: url('#{$ww-muli-font-path}/Muli.eot');
+	src: url('#{$ww-muli-font-path}/Muli.eot?#iefix') format('embedded-opentype'),
+	url('#{$ww-muli-font-path}/Muli.woff2') format('woff2'),
+	url('#{$ww-muli-font-path}/Muli.woff') format('woff'),
+	url('#{$ww-muli-font-path}/Muli.ttf') format('truetype'),
+	url('#{$ww-muli-font-path}/Muli.svg#Muli') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

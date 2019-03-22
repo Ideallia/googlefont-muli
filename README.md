@@ -21,4 +21,8 @@ If you want to use the font by including into scss files, use:
 @import "~@eaunitrust/googlefont-muli/muli"
 ```
 
+If you plan to use this font for headlines only, include simplified package, which contains only regular and bold version   
   
+```
+@import "~@eaunitrust/googlefont-muli/muli-headlines"
+```  

@@ -1,0 +1,26 @@
+{
+  "name": "@eaunitrust/googlefont-muli",
+  "version": "1.0.5",
+  "description": "Google Font Muli Family package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eaunitrust/googlefont-muli.git"
+  },
+  "keywords": [
+    "WebFont",
+    "Kit",
+    "Google",
+    "Fonts",
+    "Muli"
+  ],
+  "author": "UniTrust, after the example of Martin Bargl <bargl@webwings.cz> (https://webwings.cz/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eaunitrust/googlefont-muli/issues"
+  },
+  "homepage": "https://github.com/eaunitrust/googlefont-muli#readme"
+}
