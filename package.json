@@ -1,5 +1,5 @@
 {
-  "name": "@eaunitrust/googlefont-muli",
+  "name": "@ideallia/googlefont-muli",
   "version": "1.0.5",
   "description": "Google Font Muli Family package",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eaunitrust/googlefont-muli.git"
+    "url": "git+https://github.com/ideallia/googlefont-muli.git"
   },
   "keywords": [
     "WebFont",
@@ -17,10 +17,10 @@
     "Fonts",
     "Muli"
   ],
-  "author": "UniTrust, after the example of Martin Bargl <bargl@webwings.cz> (https://webwings.cz/)",
+  "author": "Ideallia, after the example of Martin Bargl <bargl@webwings.cz> (https://webwings.cz/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eaunitrust/googlefont-muli/issues"
+    "url": "https://github.com/ideallia/googlefont-muli/issues"
   },
-  "homepage": "https://github.com/eaunitrust/googlefont-muli#readme"
+  "homepage": "https://github.com/ideallia/googlefont-muli#readme"
 }
